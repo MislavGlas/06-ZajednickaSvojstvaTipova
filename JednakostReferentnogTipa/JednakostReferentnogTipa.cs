@@ -3,7 +3,7 @@ using System.Diagnostics;
 
 namespace Vsite.CSharp
 {
-    // TODO: U klasi Osoba iz projekta MetodaEqualsZaReferentiTip definirati operatore == i != tako da donji primjeri daju očekivane rezultate.
+    // U klasi Osoba iz projekta MetodaEqualsZaReferentiTip definirati operatore == i != tako da donji primjeri daju očekivane rezultate.
 
     class JednakostReferentnogTipa
     {
