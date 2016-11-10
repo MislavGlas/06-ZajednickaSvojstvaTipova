@@ -6,7 +6,7 @@ namespace Vsite.CSharp
     {
         static void Main(string[] args)
         {
-            // TODO: Pokrenuti program i usporediti ispise. Koja dva znakovna niza daju najbliže brojeve?
+            // Pokrenuti program i usporediti ispise. Koja dva znakovna niza daju najbliže brojeve?
 
             Console.WriteLine(string.Format("cat.GetHashCode() = {0}", "cat".GetHashCode()));
             Console.WriteLine(string.Format("cta.GetHashCode() = {0}", "cta".GetHashCode()));
